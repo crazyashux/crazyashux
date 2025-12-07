@@ -1,7 +1,17 @@
-# 💫 About Me:
-👋 Hi, I’m ASHUTOSH (CrazyAshuX)<br>💻 BCA Student | Cyber Security Learner | Developer | Tech Enthusiast<br>I’m passionate about Cyber Security, Ethical Hacking, and Modern Software Development.<br>Currently exploring C, C++, Python, Web Development, Networking, and building real-world projects to level up my skills.<br>🚀 What I Do<br>🔐 Learning & practicing Cyber Security concepts<br>💡 Building small automation tools & C programs<br>🌐 Working on web development projects<br>🎯 Creating content & awareness about tech + cybersecurity<br>🛠 Skills & Tools<br>C • C++ • Python • HTML • CSS • JavaScript<br>Git • GitHub • Networking Basics<br>Linux • Cyber Security Fundamentals<br>📌 Current Focus<br>Mastering Cyber Security from scratch<br>Developing mini projects for GitHub<br>Growing my tech presence as ASHU X Digital<br>🎯 Goal<br>To become a Cyber Expert, build smart tools, and solve real-world security problems.<br>📫 Contact<br>You can connect with me on…<br>Instagram: @crazy_ashu.x<br>YouTube: @xcrazy_vlog
-
-
+# 👋 Hi, I'm ASHUTOSH (CrazyAshuX)
+💻 BCA Student • Cyber Security Learner • Developer  
+I explore **Cyber Security, C, C++, Python, Web Dev, and Networking** while building small projects and tools.
+## 🚀 What I Do
+- Learn & practice Cyber Security  
+- Build mini tools/programs  
+- Work on web projects  
+## 🛠 Skills
+C • C++ • Python • HTML • CSS • JS • Git • Linux
+## 🎯 Current Focus
+Cyber Security | GitHub Projects | ASHU X Digital
+## 📫 Contact
+Instagram: **@crazy_ashu.x**  
+YouTube: **@xcrazy_vlog**
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/crazy_ashu.x) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutosh-manjhi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Ashutoshraj2023) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@xcrazy_vlog) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashutoshmanjhi@zohomail.in) 
 
